@@ -18,16 +18,6 @@
 > 👋 I’m open to new Frontend / Full-stack roles (React, Vue, TypeScript, Next.js, React Native), and I’m comfortable with cross-platform work (RN/Flutter) and engineering/tooling (monorepo, pnpm, CI/CD, Cloudflare). I maintain open-source admin templates and component libraries, with hands-on experience in SSR, Tailwind, performance, accessibility, and real-time features (socket.io); I also work with Node.js (Express/Nest). I’m available for remote collaboration in the JST timezone. Feel free to reach out
 
 
-  
-### 📊 Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ohh-889&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohh-889&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### 📈 Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohh-889&theme=react-dark)](https://github.com/Ohh-889/github-readme-activity-graph)
-
 
 ## Tech Stack
 
