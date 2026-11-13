@@ -1,33 +1,38 @@
-### Hi there, I am Ohh 👋
+# Hi, I'm Ohh 👋
 
-> A front-end engineer
+**Front-end & cross-platform developer · Skyroc maintainer**
 
-### 📫 Reach me:
+我是一名前端与跨端开发者，主要使用 TypeScript、React 和 React Native / Expo 构建 Web 与移动端应用。长期维护开源中后台模板与组件库，关注 UI 系统、开发工具、性能优化和可访问性。
 
-- **QQ** : 1509326266@qq.com
-- **WeChat** : wangbeichen9
-- **Phone** : +86 15629078821
-- **E-mail** : 1509326266@qq.com
+I'm a front-end and cross-platform developer working with TypeScript, React, and React Native / Expo. I maintain open-source admin templates and component libraries, with a focus on UI systems, developer tooling, performance, and accessibility.
 
-**中文：**
+## Open source · 开源项目
 
-> 👋 我正在寻求新的前端 / 全栈开发机会（React、Vue、TypeScript、Next.js、React Native），也可承担跨端（RN/Flutter）与工程化工作（monorepo、pnpm、CI/CD、Cloudflare 部署）。我长期维护开源的后台管理模板与组件库，熟悉 SSR、Tailwind、性能优化、可访问性与实时通信（socket.io），对 Node.js（Express/Nest）也有实践。期望加入重视工程质量与用户体验的团队，支持远程 / 东京时区协作。欢迎联系我
+### Skyroc
 
-**English:**
+我维护的跨端前端工程化 Monorepo，基于 React 19 与 TypeScript，覆盖 Web 中后台、Expo 移动端模板和双端 UI 组件库。[GitHub](https://github.com/Ohh-889/skyroc)
 
-> 👋 I’m open to new Frontend / Full-stack roles (React, Vue, TypeScript, Next.js, React Native), and I’m comfortable with cross-platform work (RN/Flutter) and engineering/tooling (monorepo, pnpm, CI/CD, Cloudflare). I maintain open-source admin templates and component libraries, with hands-on experience in SSR, Tailwind, performance, accessibility, and real-time features (socket.io); I also work with Node.js (Express/Nest). I’m available for remote collaboration in the JST timezone. Feel free to reach out
+A React 19 + TypeScript monorepo I maintain for web admin applications, Expo apps, and reusable Web / Native UI.
 
+- **Web & Mobile** · Admin / RuoYi 对接模板与 Expo 业务模板
+- **UI & Themes** · Web / Native 组件库、共享设计令牌与主题
+- **Shared Packages** · 请求、状态、日志与工具能力的跨端复用
+- **Engineering** · pnpm workspace、Turborepo 与统一质量工具
 
+[在线预览 / Live demo](https://admin.skyroc.me/) · [项目文档 / Docs](https://project-docs.skyroc.me/) · [Web UI](https://web-ui-docs.skyroc.me/) · [Native UI](https://native-ui.skyroc.me/)
 
-## Tech Stack
+## Tech stack · 技术栈
 
-1. JavaScript frameworks: `Vue`, `React`
-2. SSR: `Nuxt`, `Next`
-3. Cross-platform frameworks: `React Native`, `UniApp`, `Tauri`, `Electron`, `Uni-App`, `Flutter`
-4. Server-side: `Express`, `Egg`, `Nest`
-5. `TypeScript`, `Node.js`, `Bun`
+| Area | Technologies |
+| --- | --- |
+| Languages & runtimes | TypeScript, JavaScript, Node.js, Bun |
+| Web | React, Vue, Next.js, Nuxt, Tailwind CSS |
+| Mobile & desktop | React Native, Expo, Flutter, uni-app, Tauri, Electron |
+| Backend & real-time | Express, NestJS, Egg.js, Socket.IO |
+| Engineering & delivery | Monorepo, pnpm, Turborepo, CI/CD, Cloudflare |
 
-<!---
-mufeng889/mufeng889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact · 联系方式
+
+- **Email / QQ** · [1509326266@qq.com](mailto:1509326266@qq.com)
+- **WeChat** · wangbeichen9
+- **Phone** · +86 15629078821
